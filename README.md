@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
 
-<!---
-RamchandraWarang9822/RamchandraWarang9822 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamchandraWarang9822&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamchandraWarang9822&layout=compact&theme=dark)
