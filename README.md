@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ramchandra Warang
 - 👀 I’m interested in ... Coding, Music, Mobile games and Travel.
-- 🌱 I’m currently learning ... Information technology.
+- 🌱 I’m currently purseing ... Bachelors of Engineering in Information technology ( B.E. I.T. ).
 - 💞️ I’m looking to collaborate on ... Web Development , UI & UX & Blockchain 
 - 📫 How to reach me ... 
 
