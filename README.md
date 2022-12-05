@@ -6,4 +6,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamchandraWarang9822&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamchandraWarang9822&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamchandraWarang9822&layout=compact&theme=dark)
