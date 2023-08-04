@@ -5,5 +5,7 @@
 - 📫 How to reach me ...  www.linkedin.com/in/ramchandrawarang
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamchandraWarang9822&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamchandraWarang9822&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamchandraWarang9822&layout=compact&theme=dark)
