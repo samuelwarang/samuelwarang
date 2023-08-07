@@ -14,14 +14,13 @@
 
 <br>
 
-<div align=center>
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RamchandraWarang9822&count_private=true&show_icons=true&include_all_commits=true&border_color=61dafb&hide_border=false&theme=react" /></a>
 </div>
 <!-- GitHub Stats -->
-
 	
   <br>
-  <div align=center>
+  <div>
     <!-- Language Stats -->
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamchandraWarang9822&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=false" />
