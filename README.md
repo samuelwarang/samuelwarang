@@ -11,7 +11,7 @@
 <br>
 
 <div>
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamchandraWarang9822&layout=compact&theme=dark" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamchandraWarang9822&layout=compact&theme=dark" >
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=RamchandraWarang9822&layout=compact&theme=dark&hide_border=false"  >
 </div>
 
