@@ -21,7 +21,7 @@
 
 <h2 align='center'><i>Languages and Tools</i></h2>
 
-<table width="100" align='center'>
+<table width="100" align='center' >
 <tr>
     <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
@@ -30,7 +30,7 @@
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" width="60">
+        <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" >
     </td>
       <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
