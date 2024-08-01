@@ -38,7 +38,7 @@
 </tr>
 <tr>
     <td align='center'  width="190">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg">
     </td>
      <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="110">
